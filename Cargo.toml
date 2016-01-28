@@ -1,0 +1,6 @@
+[package]
+name = "rkvs"
+version = "0.1.0"
+authors = ["Hari Mohanraj <mohanraj.hari@gmail.com>"]
+
+[dependencies]
