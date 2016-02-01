@@ -5,4 +5,3 @@ authors = ["Hari Mohanraj <mohanraj.hari@gmail.com>"]
 
 [dependencies]
 mio = "*"
-bytes = "0.3.0"
