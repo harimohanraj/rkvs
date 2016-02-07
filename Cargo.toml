@@ -6,3 +6,6 @@ authors = ["Hari Mohanraj <mohanraj.hari@gmail.com>"]
 [dependencies]
 mio = "*"
 bytes = "0.3.0"
+env_logger = "0.3.1"
+log = "0.3.1"
+slab = "0.1.0"
